@@ -27,3 +27,5 @@ We notice that our response variable price is extremely skewed. Thus, a log tran
 First, we create a correlation plot between the numeric variables in the data set. In the graph below, red circles denote a positive correlation and blue circles denote a negative correlation. We can see that price and day, month, year, almost have no correlation. It has some strong correlation with sqft_living15, sqft_living, and sqft_above. It also has some weak positive correlation with the rest of the numeric variables.
 
 We also see that there seems to be some multicollinearity between some of the explanatory variables, such as sqft_living and bathrooms, sqft_living15 and sqft_above,  sqft_above and bathrooms, sqft_living15, and sqft_living.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
