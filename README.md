@@ -34,13 +34,13 @@ We also see that there seems to be some multicollinearity between some of the ex
 
 We apply both simple linear regression as well as machine learning models to predict house price.
 
-![Bivariative Analysis](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/picture2.png)
+![Bivariative Analysis](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/Picture2.png)
 
-![XGboost](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/picture3.png)
+![XGboost](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/Picture3.png)
 
-![Random Forest](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/picture4.png)
+![Random Forest](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/Picture4.png)
 
-![NN](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/picture1.png)
+![NN](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/blob/master/picture/Picture1.png)
 
 
 ## Result
