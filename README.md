@@ -28,4 +28,20 @@ First, we create a correlation plot between the numeric variables in the data se
 
 We also see that there seems to be some multicollinearity between some of the explanatory variables, such as sqft_living and bathrooms, sqft_living15 and sqft_above,  sqft_above and bathrooms, sqft_living15, and sqft_living.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Bivariative Analysis](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/tree/master/picture/picture2.png)
+
+## Models
+
+We apply both simple linear regression as well as machine learning models to predict house price.
+
+![Bivariative Analysis](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/tree/master/picture/picture2.png)
+
+![XGboost](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/tree/master/picture/picture3.png)
+
+![Random Forest](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/tree/master/picture/picture4.png)
+
+![NN](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/tree/master/picture/picture1.png)
+
+
+## Result
+![Bivariative Analysis](https://github.com/AkazaAkane/Economics_and_Data_Science_Final_Project/tree/master/picture/result.png)
